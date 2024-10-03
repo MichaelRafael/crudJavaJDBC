@@ -19,7 +19,7 @@ public class Aplicacao {
 			try {
 				n = Integer.valueOf(num);				
 			} catch (Exception e) {
-				System.out.println("ERRO! Digite apenas números inteiros");
+
 			} finally {
 				return n;
 			}
