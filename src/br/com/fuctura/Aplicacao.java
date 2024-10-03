@@ -13,6 +13,7 @@ public class Aplicacao {
 		
 		int n = 0;
 		
+		
 		while (true) {
 			try {
 				n = Integer.valueOf(num);				
